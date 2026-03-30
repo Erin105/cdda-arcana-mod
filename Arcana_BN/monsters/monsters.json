@@ -339,6 +339,7 @@
         "PET_MOUNTABLE",
         "MOUNTABLE_STAIRS",
         "MOUNTABLE_OBSTACLES",
+        "MOUNTABLE_DOORS",
         "CANT_CLONE"
       ]
     },
@@ -386,6 +387,7 @@
         "PET_MOUNTABLE",
         "MOUNTABLE_STAIRS",
         "MOUNTABLE_OBSTACLES",
+        "MOUNTABLE_DOORS",
         "CANT_CLONE"
       ]
     },
@@ -434,6 +436,7 @@
         "PET_MOUNTABLE",
         "MOUNTABLE_STAIRS",
         "MOUNTABLE_OBSTACLES",
+        "MOUNTABLE_DOORS",
         "CANT_CLONE"
       ]
     },
@@ -529,6 +532,7 @@
         "PET_MOUNTABLE",
         "MOUNTABLE_STAIRS",
         "MOUNTABLE_OBSTACLES",
+        "MOUNTABLE_DOORS",
         "CAN_BE_ORDERED",
         "CANT_CLONE"
       ]
@@ -672,7 +676,10 @@
         "PRIORITIZE_TARGETS",
         "PET_MOUNTABLE",
         "MOUNTABLE_STAIRS",
+        "MOUNTABLE_LADDER",
         "MOUNTABLE_OBSTACLES",
+        "MOUNTABLE_DOORS",
+        "MOUNTABLE_LEDGE",
         "CAN_BE_ORDERED",
         "CANT_CLONE"
       ]
@@ -827,6 +834,7 @@
         "PET_MOUNTABLE",
         "MOUNTABLE_STAIRS",
         "MOUNTABLE_OBSTACLES",
+        "MOUNTABLE_DOORS",
         "CANT_CLONE"
       ]
     }
@@ -1016,7 +1024,10 @@
       "NO_BREATHE",
       "RIDEABLE_MECH",
       "MOUNTABLE_STAIRS",
+      "MOUNTABLE_LADDER",
       "MOUNTABLE_OBSTACLES",
+      "MOUNTABLE_DOORS",
+      "MOUNTABLE_LEDGE",
       "HARDTOSHOOT",
       "PRIORITIZE_TARGETS",
       "PATH_AVOID_DANGER_2"
