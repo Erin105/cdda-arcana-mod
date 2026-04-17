@@ -20,6 +20,7 @@
     "prereqs": [ "ARCANA_FIREAFFINITY" ],
     "prereqs2": [ "ARCANA_DRAGONCLAWS" ],
     "category": [ "DRAGONBLOOD" ],
+    "prevents": [ "SPELL_SMOKE", "SPELL_STRENGTH2", "SPELL_CONFUSE2", "SPELL_ACIDARMOR", "SPELL_SUMMONDOG2" ],
     "changes_to": [ "SPELL_SUMMONFIEND" ],
     "threshreq": [ "THRESH_DRAGONBLOOD" ],
     "spells_learned": [ [ "arcana_mark_elemental_sign", 1 ], [ "arcana_mark_displacing_slash", 1 ] ]
@@ -36,6 +37,7 @@
     "prereqs": [ "ARCANA_DRAGONFIRE" ],
     "prereqs2": [ "SPELL_EMBERS_DRAGONBLOOD" ],
     "category": [ "DRAGONBLOOD" ],
+    "prevents": [ "SPELL_SMOKE", "SPELL_STRENGTH2", "SPELL_CONFUSE2", "SPELL_ACIDARMOR", "SPELL_SUMMONDOG2" ],
     "threshreq": [ "THRESH_DRAGONBLOOD" ],
     "spells_learned": [
       [ "arcana_mark_elemental_sign", 1 ],
@@ -56,6 +58,7 @@
     "prereqs2": [ "ARCANA_DRAGONCLAWS" ],
     "changes_to": [ "SPELL_HUNT_DRAGONBLOOD" ],
     "category": [ "DRAGONBLOOD" ],
+    "prevents": [ "SPELL_SMOKE", "SPELL_STRENGTH2", "SPELL_CONFUSE2", "SPELL_ACIDARMOR", "SPELL_SUMMONDOG2" ],
     "threshreq": [ "THRESH_DRAGONBLOOD" ],
     "spells_learned": [ [ "arcana_mark_might", 1 ], [ "arcana_mark_revenant_blood", 1 ] ]
   },
@@ -69,6 +72,7 @@
     "purifiable": false,
     "prereqs": [ "SPELL_INSTINCT_DRAGONBLOOD" ],
     "category": [ "DRAGONBLOOD" ],
+    "prevents": [ "SPELL_SMOKE", "SPELL_STRENGTH2", "SPELL_CONFUSE2", "SPELL_ACIDARMOR", "SPELL_SUMMONDOG2" ],
     "threshreq": [ "THRESH_DRAGONBLOOD" ],
     "spells_learned": [
       [ "arcana_mark_might", 1 ],
@@ -88,6 +92,7 @@
     "purifiable": false,
     "prereqs": [ "ARCANA_DRAGONCLAWS" ],
     "prereqs2": [ "ARCANA_INSTINCT" ],
+    "prevents": [ "SPELL_SMOKE", "SPELL_STRENGTH2", "SPELL_CONFUSE2", "SPELL_ACIDARMOR", "SPELL_SUMMONDOG2" ],
     "changes_to": [ "SPELL_BEYOND_DRAGONBLOOD" ],
     "category": [ "DRAGONBLOOD" ],
     "threshreq": [ "THRESH_DRAGONBLOOD" ],
@@ -103,6 +108,7 @@
     "purifiable": false,
     "prereqs": [ "SPELL_SUMMONWYRM" ],
     "category": [ "DRAGONBLOOD" ],
+    "prevents": [ "SPELL_SMOKE", "SPELL_STRENGTH2", "SPELL_CONFUSE2", "SPELL_ACIDARMOR", "SPELL_SUMMONDOG2" ],
     "threshreq": [ "THRESH_DRAGONBLOOD" ],
     "spells_learned": [
       [ "arcana_mark_summon_dark_wyrm", 1 ],
