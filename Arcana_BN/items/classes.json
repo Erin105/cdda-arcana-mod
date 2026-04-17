@@ -37,19 +37,6 @@
     "flags": [ "NO_SALVAGE", "NO_INGEST", "NUTRIENT_OVERRIDE" ]
   },
   {
-    "abstract": "scroll_pattern_base",
-    "type": "GENERIC",
-    "category": "spellbooks",
-    "name": { "str": "pattern scroll base" },
-    "weight": "415 g",
-    "volume": "250 ml",
-    "material": [ "paper" ],
-    "symbol": "!",
-    "looks_like": "recipe_creepy",
-    "color": "white",
-    "flags": [ "NO_SALVAGE" ]
-  },
-  {
     "abstract": "totem_base",
     "type": "COMESTIBLE",
     "comestible_type": "MED",
