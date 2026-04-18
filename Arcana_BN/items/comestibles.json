@@ -200,7 +200,7 @@
       "spell_id": "arcana_item_blood_effigy",
       "no_fail": true,
       "level": 0
-    }
+    },
     "flags": [ "NO_INGEST", "EATEN_COLD", "NPC_SAFE", "NUTRIENT_OVERRIDE" ]
   },
   {
