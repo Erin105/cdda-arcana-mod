@@ -1662,7 +1662,7 @@
     "category": "weapons",
     "weapon_category": [ "2H_SWORDS", "MEDIEVAL_SWORDS" ],
     "name": { "str": "restored ritual blade" },
-    "description": "A two-handed sword richly engraved with exotic runes, all in scripts not of this world.  Once corrupted and now restored, it can only serve a fragment of its original purpose.  Linger next to a portal to fuel it, or use crystallized essence.  Use \"inject\" to offer power to the Beyond.  It will grant great gifts, but set you down a path you can't return from.  Using \"cast spell\" instead will channel its fuel into a burst of energy, restoring 1500 mana if used on yourself …or, unravel a single nearby enemy for massive damage.",
+    "description": "A two-handed sword richly engraved with exotic runes, all in scripts not of this world.  Once corrupted and now restored, it can only serve a fragment of its original purpose.  Linger next to a portal to fuel it, or use crystallized essence.  Use it to offer power to the Beyond, restoring mana and seeking communion with its maker.  It will reward you great gifts, but set you down a path you can't return from.",
     "weight": "2267 g",
     "volume": "3 L",
     "//": "Arguably it being restored instead of untainted means it should count as a post-cata item, but the original was pre-cata.",
@@ -1677,16 +1677,7 @@
     "max_charges": 10,
     "charges_per_use": 1,
     "ammo": "essence_pure_type",
-    "use_action": [
-      { "type": "mutagen_iv", "mutation_category": "VEIL" },
-      {
-        "type": "cast_spell",
-        "spell_id": "arcana_item_ritual_blade_restoration",
-        "no_fail": true,
-        "need_wielding": true,
-        "level": 0
-      }
-    ],
+    "use_action": { "type": "cast_spell", "spell_id": "arcana_item_ritual_blade", "no_fail": true, "need_wielding": true, "level": 0 },
     "relic_data": {
       "passive_effects": [
         {
@@ -1724,7 +1715,13 @@
     "max_charges": 10,
     "charges_per_use": 5,
     "ammo": "essence_blood_type",
-    "use_action": { "type": "mutagen_iv", "mutation_category": "DRAGONBLOOD" }
+    "use_action": {
+      "type": "cast_spell",
+      "spell_id": "arcana_item_sacramental_heart",
+      "no_fail": true,
+      "need_wielding": true,
+      "level": 0
+    }
   },
   {
     "id": "sanguine_staff_lifesbane",

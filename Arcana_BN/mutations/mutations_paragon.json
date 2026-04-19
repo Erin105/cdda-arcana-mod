@@ -34,6 +34,7 @@
     "purifiable": false,
     "changes_to": [ "SPELL_LIGHT2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 100,
     "spells_learned": [ [ "arcana_blessing_conjure_shadow_field", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -49,6 +50,7 @@
     "prereqs": [ "SPELL_SMOKE" ],
     "changes_to": [ "SPELL_LOCKPICK2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 200,
     "spells_learned": [ [ "arcana_blessing_conjure_shadow_field", 1 ], [ "arcana_blessing_conjure_lightburst", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -64,6 +66,7 @@
     "prereqs": [ "SPELL_LIGHT2" ],
     "changes_to": [ "SPELL_TELEPORT" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 300,
     "spells_learned": [
@@ -85,6 +88,7 @@
     "prereqs": [ "SPELL_LOCKPICK2" ],
     "changes_to": [ "SPELL_PACIFY" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 400,
     "spells_learned": [
@@ -107,6 +111,7 @@
     "changes_to": [ "SPELL_CONSECRATE" ],
     "threshreq": [ "THRESH_VEIL" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 500,
     "spells_learned": [
       [ "arcana_blessing_conjure_shadow_field", 1 ],
@@ -128,6 +133,7 @@
     "prereqs": [ "SPELL_PACIFY" ],
     "threshreq": [ "THRESH_VEIL" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 600,
     "spells_learned": [
       [ "arcana_blessing_conjure_shadow_field", 1 ],
@@ -149,6 +155,7 @@
     "purifiable": false,
     "changes_to": [ "SPELL_CLAIRVOYANCE2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 100,
     "spells_learned": [ [ "arcana_blessing_might", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -164,6 +171,7 @@
     "prereqs": [ "SPELL_STRENGTH2" ],
     "changes_to": [ "SPELL_AGILE2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 200,
     "spells_learned": [ [ "arcana_blessing_might", 1 ], [ "arcana_blessing_clairvoyance", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -179,6 +187,7 @@
     "prereqs": [ "SPELL_CLAIRVOYANCE2" ],
     "changes_to": [ "SPELL_DAYLIGHT2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 300,
     "spells_learned": [ [ "arcana_blessing_might", 1 ], [ "arcana_blessing_clairvoyance", 1 ], [ "arcana_blessing_agility", 1 ] ],
@@ -195,6 +204,7 @@
     "prereqs": [ "SPELL_AGILE2" ],
     "changes_to": [ "SPELL_DRAINLIFE" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 400,
     "spells_learned": [
@@ -216,6 +226,7 @@
     "prereqs": [ "SPELL_DAYLIGHT2" ],
     "changes_to": [ "SPELL_INVIS" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 500,
     "spells_learned": [
@@ -237,6 +248,7 @@
     "purifiable": false,
     "prereqs": [ "SPELL_DRAINLIFE" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 600,
     "spells_learned": [
@@ -259,6 +271,7 @@
     "purifiable": false,
     "changes_to": [ "SPELL_CLOUD" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 100,
     "spells_learned": [ [ "arcana_blessing_confuse_monster", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -274,6 +287,7 @@
     "prereqs": [ "SPELL_CONFUSE2" ],
     "changes_to": [ "SPELL_LIGHTNING2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 200,
     "spells_learned": [ [ "arcana_blessing_confuse_monster", 1 ], [ "arcana_blessing_conjure_miasma", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -289,6 +303,7 @@
     "prereqs": [ "SPELL_CLOUD" ],
     "changes_to": [ "SPELL_FIRE2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 300,
     "spells_learned": [
@@ -309,6 +324,7 @@
     "prereqs": [ "SPELL_LIGHTNING2" ],
     "changes_to": [ "SPELL_LIGHTNINGFIELD" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 400,
     "spells_learned": [
@@ -330,6 +346,7 @@
     "prereqs": [ "SPELL_FIRE2" ],
     "changes_to": [ "SPELL_PULSE" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 500,
     "spells_learned": [
@@ -350,6 +367,7 @@
     "valid": false,
     "purifiable": false,
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "prereqs": [ "SPELL_LIGHTNINGFIELD" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 600,
@@ -373,6 +391,7 @@
     "purifiable": false,
     "changes_to": [ "SPELL_POISONARMOR2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 100,
     "spells_learned": [ [ "arcana_blessing_ward_acid", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -388,6 +407,7 @@
     "prereqs": [ "SPELL_ACIDARMOR" ],
     "changes_to": [ "SPELL_ELECRESIST2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 200,
     "spells_learned": [ [ "arcana_blessing_ward_acid", 1 ], [ "arcana_blessing_ward_poison", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -403,6 +423,7 @@
     "prereqs": [ "SPELL_POISONARMOR2" ],
     "changes_to": [ "SPELL_FLAMEARMOR2" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 300,
     "spells_learned": [ [ "arcana_blessing_ward_acid", 1 ], [ "arcana_blessing_ward_poison", 1 ], [ "arcana_blessing_ward_lightning", 1 ] ],
@@ -419,6 +440,7 @@
     "prereqs": [ "SPELL_ELECRESIST2" ],
     "changes_to": [ "SPELL_FROSTARMOR" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 400,
     "spells_learned": [
@@ -440,6 +462,7 @@
     "prereqs": [ "SPELL_FLAMEARMOR2" ],
     "changes_to": [ "SPELL_PSYSHIELD" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 500,
     "spells_learned": [
@@ -461,6 +484,7 @@
     "purifiable": false,
     "prereqs": [ "SPELL_FROSTARMOR" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 600,
     "spells_learned": [
@@ -483,6 +507,7 @@
     "purifiable": false,
     "changes_to": [ "SPELL_SUMMONSKEL" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 100,
     "spells_learned": [ [ "arcana_blessing_summon_skeletal_dog", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -498,6 +523,7 @@
     "prereqs": [ "SPELL_SUMMONDOG2" ],
     "changes_to": [ "SPELL_SUMMONCULUS" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "mana_modifier": 200,
     "spells_learned": [ [ "arcana_blessing_summon_skeletal_dog", 1 ], [ "arcana_blessing_summon_skeleton", 1 ] ],
     "flags": [ "explorer_of_the_veil" ]
@@ -513,6 +539,7 @@
     "prereqs": [ "SPELL_SUMMONSKEL" ],
     "changes_to": [ "SPELL_SUMMONTHING" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 300,
     "spells_learned": [
@@ -533,6 +560,7 @@
     "prereqs": [ "SPELL_SUMMONCULUS" ],
     "changes_to": [ "SPELL_BUGS" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 400,
     "spells_learned": [
@@ -554,6 +582,7 @@
     "prereqs": [ "SPELL_SUMMONTHING" ],
     "changes_to": [ "SPELL_SUMMONVORTEX" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 500,
     "spells_learned": [
@@ -575,6 +604,7 @@
     "purifiable": false,
     "prereqs": [ "SPELL_BUGS" ],
     "category": [ "VEIL" ],
+    "prevents": [ "SPELL_EMBERS_DRAGONBLOOD", "SPELL_INSTINCT_DRAGONBLOOD", "SPELL_SUMMONWYRM" ],
     "threshreq": [ "THRESH_VEIL" ],
     "mana_modifier": 600,
     "spells_learned": [
