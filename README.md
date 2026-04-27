@@ -1,7 +1,7 @@
 # Arcana and Magic Items mod for Cataclysm: Dark Days Ahead and Cataclysm: Bright Nights
 Arcana and Magic Items mod, formerly an in-repo mod during 0.C Experimental, and now maintained as a third-party repository by its author. Continually updating and expanding on its mechanics, expect regular updates.
 
-Note that the key for spellcasting is not bound by default in CDDA nor in CBN, and must be set by the user. I would personally suggest `]` as a good unused key, owing to its position near the bionics and mutation keys. Launcher users are advised to update this mod via deleting and re-installing in the launcher's mods section after updating their game, as the `update game` function does not touch third-party mods.
+Note that the key for spellcasting is not bound by default in CDDA, and must be set by the user. I would personally suggest `]` as a good unused key, owing to its position near the bionics and mutation keys. Launcher users are advised to update this mod via deleting and re-installing in the launcher's mods section after updating their game, as the `update game` function does not touch third-party mods.
 
 Focused principally on magical items as the name implies (the mod predating the current spell mechanics), with proper spells being a valuable, powerful tool that demands hunting monsters and learning of the Beyond moreso than simple scavenging. Magic is a primal, recently-developed resource tied to otherworldly monsters and unearthly phenomena, with those who came before leaving an impression on the region that can be uncovered through exploration, or via pursuing missions and interactions involving the handful of survivors still around by the time of the Cataclysm.
 
@@ -37,10 +37,11 @@ The second scenario added, allowing players another method of getting into the a
 
 * The *Arcane Researcher* stole away with a small collection of arcane books, with nothing else but the clothes on their back.
 
-* The *Sanguine Shrike* is a leftover member of the __Sanguine Order__, serving a different role compared to the *Blood Mage* from Seeker of The Arcane.
+* The *Sanguine Shrike* is a leftover member of the __Sanguine Order__, serving a different role compared to the *Blood Mage* from Seeker of The Arcane, while the *Dragonblood Aspirant* is a novice within sanguinist altered by their study of research left behind by said Order's more transhumanist-leaning sects.
 
 * The *Arcane Purifier* and *Arcane Operative* represent the urban contacts and splinter factions among the __Cleansing Flame__, combining technology and a few basic arcane tools of the trade.
 
+* The *Keeper Menicant* is a wayward follower of the __Keepers of The Oath__, taking up arms and left adrift after the destruction of their order.
 
 ## Item Dismantling
 
@@ -71,19 +72,19 @@ In addition, though the *Keepers of The Oath* had been driven nearly to extincti
 * Levels 2-5, requires a decent intellect to understand. Used to craft disposable magic scrolls. Conceals magic lessons behind myths concerning a pantheon of otherworldly gods.
 
 ##### Sanguine Codex
-* Blood magic, for levels 2-7. Allows crafting the silver athame, and producing blood essence, and making the various items used the __Sanguine Order__.
+* Blood magic, for levels 3-6. Allows crafting the silver athame, and producing blood essence, and making the various items used the __Sanguine Order__.
 
 ##### The Cleansing Flame 
-* Levels 3-8. Religious book, written by an order of witch-hunters, it allows crafting a select number of sanctioned items fueled by dull essence.
+* Levels 4-7. Religious book, written by an order of witch-hunters, it allows crafting a select number of sanctioned items fueled by dull essence.
 
 ##### Oaths to the Chalice 
-* Also a religious book, skill levels 4-9. Allows crafting the offering chalice, recipes for sacrificing items to obtain essence, and magic items related to __The Keepers of The Oath__. Also needed to extract blood essence from a used chalice.
+* Also a religious book, skill levels 5-8. Allows crafting the offering chalice, recipes for sacrificing items to obtain essence, and magic items related to __The Keepers of The Oath__. Also needed to extract blood essence from a used chalice.
 
 ##### To Master the Unknown 
 * Levels 6-10. A book for summoning your very own pet monstrosities.
 
 ##### A Story in Shadow 
-* Levels 4-9. Relatively rare book that combines some of the concepts from the three major factions. Translation: a few magic items with an assortment of useful effects.
+* Levels 6-10. Relatively rare book that combines some of the concepts from the three major factions. Translation: a few magic items with an assortment of useful effects.
 
 ##### Lab Journal-Quinn
 * Levels 5-8. The end result of rare research combining cutting-edge science with a glimpse of the unknown and anomalous, providing acess to many recipes involving magitech.
