@@ -46,7 +46,6 @@ The second scenario added, allowing players another method of getting into the a
 
 * The *Keeper Menicant* is a wayward follower of the __Keepers of The Oath__, taking up arms and left adrift after the destruction of their order.
 
-
 ## Item Dismantling
 
 * The *Hammer of the Hunter* is needed to dismantle most arcane items. Some unique items are even more complex and difficult to get rid of, while a few are simpler to dispose of.
@@ -76,19 +75,19 @@ In addition, though the *Keepers of The Oath* had been driven nearly to extincti
 * Levels 2-5, requires a decent intellect to understand. Used to craft disposable magic scrolls. Conceals magic lessons behind myths concerning a pantheon of otherworldly gods.
 
 ##### Sanguine Codex
-* Blood magic, for levels 2-7. Allows crafting the silver athame, and producing blood essence, and making the various items used the __Sanguine Order__.
+* Blood magic, for levels 3-6. Allows crafting the silver athame, and producing blood essence, and making the various items used the __Sanguine Order__.
 
 ##### The Cleansing Flame 
-* Levels 3-8. Religious book, written by an order of witch-hunters, it allows crafting a select number of sanctioned items fueled by dull essence.
+* Levels 4-7. Religious book, written by an order of witch-hunters, it allows crafting a select number of sanctioned items fueled by dull essence.
 
 ##### Oaths to the Chalice 
-* Also a religious book, skill levels 4-9. Allows crafting the offering chalice, recipes for sacrificing items to obtain essence, and magic items related to __The Keepers of The Oath__. Also needed to extract blood essence from a used chalice.
+* Also a religious book, skill levels 5-8. Allows crafting the offering chalice, recipes for sacrificing items to obtain essence, and magic items related to __The Keepers of The Oath__. Also needed to extract blood essence from a used chalice.
 
 ##### To Master the Unknown 
 * Levels 6-10. A book for summoning your very own pet monstrosities.
 
 ##### A Story in Shadow 
-* Levels 4-9. Relatively rare book that combines some of the concepts from the three major factions. Translation: a few magic items with an assortment of useful effects.
+* Levels 6-10. Relatively rare book that combines some of the concepts from the three major factions. Translation: a few magic items with an assortment of useful effects.
 
 ##### Lab Journal-Quinn
 * Levels 5-8. The end result of rare research combining cutting-edge science with a glimpse of the unknown and anomalous, providing acess to many recipes involving magitech.
