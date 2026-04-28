@@ -56,5 +56,22 @@
         "SPELL_SUMMONDOG"
       ]
     }
+  },
+  {
+    "type": "scenario",
+    "id": "arcane_seeker",
+    "copy-from": "arcane_seeker",
+    "extend": {
+      "professions": [ "novice_necromancer", "novice_stormshaper", "novice_earthshaper", "novice_technomancer", "novice_kelvinist" ]
+    }
+  },
+  {
+    "type": "scenario",
+    "id": "arcane_urban",
+    "copy-from": "arcane_urban",
+    "extend": {
+      "professions": [ "priest_magic2", "shinto_priest_magic2", "imam_magic2", "rabbi_magic2", "guru_magic2", "preacher_magic2" ]
+    },
+    "delete": { "professions": [ "priest", "shinto_priest", "imam", "rabbi", "guru", "preacher" ] }
   }
 ]

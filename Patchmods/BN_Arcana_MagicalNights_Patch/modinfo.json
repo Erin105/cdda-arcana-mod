@@ -6,7 +6,7 @@
     "authors": [ "Chaosvolt" ],
     "description": "Optional patch mod that allows content in Arcana and Magical Nights to interact with each other.",
     "license": "CC-BY-SA-3.0",
-    "version": "BN version, update 1/24/2025",
+    "version": "BN version, update 4/28/2026",
     "category": "misc_additions",
     "dependencies": [ "bn", "Arcana", "MagicalNights" ]
   }
