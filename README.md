@@ -1,11 +1,14 @@
-# Arcana and Magic Items mod for Cataclysm: Dark Days Ahead and Cataclysm: Bright Nights
-Arcana and Magic Items mod, formerly an in-repo mod during 0.C Experimental, and now maintained as a third-party repository by its author. Continually updating and expanding on its mechanics, expect regular updates.
+# Arcana and Magic Items mod for Cataclysm: Dark Days Ahead, now an in-repo mod in Cataclysm Bright Nights
+
+__IMPORTANT: THIS MOD IS NOW AVAILABLE IN-REPO IN BRIGHT NIGHTS, SO DOWNLOADING FROM THIS REPOSITORY IS NO LONGER NESSECARY TO PLAY THE BN VERSION OF THIS MOD!__
+
+Arcana and Magic Items mod, formerly an in-repo mod during 0.C Experimental, maintained as a third-party repository by its author, and now once again restore as an in-repo mod for Bright Nights. Continually updating and expanding on its mechanics, expect regular updates.
 
 Note that the key for spellcasting is not bound by default in CDDA, and must be set by the user. I would personally suggest `]` as a good unused key, owing to its position near the bionics and mutation keys. Launcher users are advised to update this mod via deleting and re-installing in the launcher's mods section after updating their game, as the `update game` function does not touch third-party mods.
 
 Focused principally on magical items as the name implies (the mod predating the current spell mechanics), with proper spells being a valuable, powerful tool that demands hunting monsters and learning of the Beyond moreso than simple scavenging. Magic is a primal, recently-developed resource tied to otherworldly monsters and unearthly phenomena, with those who came before leaving an impression on the region that can be uncovered through exploration, or via pursuing missions and interactions involving the handful of survivors still around by the time of the Cataclysm.
 
-If you are using Dark Days Ahead, place the included Arcana folder in your data/mods folder. If you are using the Bright Nights fork, use the Arcana_BN folder instead. In either case it is recommended that, if updating the mod, to delete the older version of the folder rather than just dumping the new one onto the old one.
+If you are using Dark Days Ahead, place the included Arcana folder in your data/mods folder. If you are using the Bright Nights fork, you need do nothing else except add it to your mod list when creating a new world. :3
 
 __OPTIONAL:__ If you are using Arcana with Cataclysm++, Magical Nights, or a few other mods with Bright Nights, the Patchmods folder has optional mods that allow the content of different mods to interact in more ways. These are NOT necessary for actual functionality even if you use both mods, and just add a few extra improvements. To use, copy the patchmod subfolder desired from the Patchmods folder into your data/mods folder. Then just include it during world generation, it will automatically be loaded after the two mods to be combined, due to requiring the relevant mods as prerequisites. For DDA, mod interactions for supported mods are handled by the mod_interactions folder in Arcana itself.
 
