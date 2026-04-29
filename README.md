@@ -1,6 +1,6 @@
 # Arcana and Magic Items mod for Cataclysm: Dark Days Ahead, now an in-repo mod in Cataclysm Bright Nights
 
-__IMPORTANT: THIS MOD IS NOW AVAILABLE IN-REPO IN BRIGHT NIGHTS, SO DOWNLOADING FROM THIS REPOSITORY IS NO LONGER NESSECARY TO PLAY THE BN VERSION OF THIS MOD!__
+__IMPORTANT: THIS MOD IS NOW AVAILABLE IN-REPO IN BRIGHT NIGHTS, SO DOWNLOADING FROM THIS REPOSITORY IS NO LONGER NESSECARY TO PLAY THE BN VERSION OF THIS MOD! As such, the repo has been archived. Due to difficulties maintaining the DDA versions of my mod as a result of frequent breaking changes on their end and having moved on from playing DDA itself, I do not have any interest in maintaining the DDA version of a mod they long ago obsoleted and deleted from their repo, as I have enough mods I need to keep up to date and not enough time these days to do so.__
 
 Arcana and Magic Items mod, formerly an in-repo mod during 0.C Experimental, maintained as a third-party repository by its author, and now once again restore as an in-repo mod for Bright Nights. Continually updating and expanding on its mechanics, expect regular updates.
 
